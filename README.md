@@ -16,7 +16,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript (or R
 
 ## 🚀 Live Demo
 
-👉 [Visit My Portfolio](portfolio-one-chi-33.vercel.app)  
+👉 [Visit My Portfolio](https://portfolio-one-chi-33.vercel.app/)  
 (Replace with your GitHub Pages or hosted link)
 
 ---
